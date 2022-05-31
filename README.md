@@ -10,7 +10,6 @@
     5. scp - перемещение собранного проекта по scp на выбранный сервер по завершению сборки. Предварительно необходимо выполнить сборку проекта (цель build)
     6. env - осуществляет сборку и запуск программы в альтернативных окружениях; окружение задается версией java и набором аргументов виртуальной машины в файле параметров.
     7. music - осуществляет проигравание музыки по завершению сборки (цель build)
-(make LAB1DEBUG=1 and change compiler to g++ ???)
 
 ## Steps:
 These are the steps taken in order to finish this lab:
@@ -36,17 +35,16 @@ Testing will work the following way:
 >
     1. We will be testing the dynamic library "ipv4"
     2. Units for testing:
-        1. convert_to_IPv4() func
-        2. 
+        1. convert_to_IPv4() 
+        2. memmem() 
 ## How to run it?
 >
 
     1. $ cmake .
-    2. make compile/build/clean/test/scp/env
+    2. $ make compile/build/clean/test/scp/env/music
 
 ## Tips and tricks:
->
-
-    1. delete.sh - *a small script for deleting all garbage that 'cmake .' creates*
+> 
+    1. delete.sh - *a small script for deleting all garbage that *$ cmake .* creates*
 
 
