@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/lab_objects.dir/src/lab1aotN3246.c.o -o src/bin/lab 

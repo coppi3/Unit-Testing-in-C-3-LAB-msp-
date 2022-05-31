@@ -1,0 +1,13 @@
+/home/drew/study/lab3/CMakeFiles/lab_objects.dir
+/home/drew/study/lab3/CMakeFiles/lib_objects.dir
+/home/drew/study/lab3/CMakeFiles/compile.dir
+/home/drew/study/lab3/CMakeFiles/lab.dir
+/home/drew/study/lab3/CMakeFiles/ipv4.dir
+/home/drew/study/lab3/CMakeFiles/build.dir
+/home/drew/study/lab3/CMakeFiles/scp.dir
+/home/drew/study/lab3/CMakeFiles/env.dir
+/home/drew/study/lab3/CMakeFiles/super_clean.dir
+/home/drew/study/lab3/CMakeFiles/test.dir
+/home/drew/study/lab3/CMakeFiles/music.dir
+/home/drew/study/lab3/CMakeFiles/edit_cache.dir
+/home/drew/study/lab3/CMakeFiles/rebuild_cache.dir
