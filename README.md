@@ -45,6 +45,6 @@ Testing will work the following way:
 
 ## Tips and tricks:
 > 
-    1. delete.sh - *a small script for deleting all garbage that *$ cmake .* creates*
+    1. delete.sh - *a small script for deleting all garbage that "$ cmake ." creates*
 
 
